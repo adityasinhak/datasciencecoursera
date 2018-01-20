@@ -84,6 +84,6 @@ grab the cleaned data using lapply to for the std deviation and mean by subject 
 
 clean <- data.table(clean)
 tidydata <- clean[, lapply(.SD, mean), by = 'Subject_ID,Activity_Type']
-print(dim(tidydata))
+print(dim(tidyData))
 
-write.table(tidydata,file="Tidy.txt",row.names = FALSE)
+write.table(tidydata,file="tidyData.txt",row.names = FALSE)
