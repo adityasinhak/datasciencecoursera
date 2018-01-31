@@ -1,4 +1,6 @@
 library(shiny)
+library(ggplot2)
+library(dplyr)
 
 # Load data
 data <- read.csv("individuals-fake-data-p1.csv", nrows = 5000, header = TRUE)
