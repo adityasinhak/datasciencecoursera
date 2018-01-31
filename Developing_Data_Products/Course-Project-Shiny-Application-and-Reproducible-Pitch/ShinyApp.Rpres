@@ -1,7 +1,7 @@
 Fake Contacts Generator presentation
 ========================================================
-author: Ihor Shkurko
-date: 2016-04-0
+author: Aditya Sinha
+date: 28-01-2018
 
 Introduction
 ========================================================
@@ -48,6 +48,6 @@ head(data[, c(2,5,6,7,15)])
 Summary
 ========================================================
 
-Fake Contacts Generator could be find by link: https://ishkurko.shinyapps.io/shiny-application/
+Fake Contacts Generator could be find by link: https://sinhakaditya.shinyapps.io/ShinyApp/
 
-All source code Course Project locates on the GitHub repo: https://github.com/ishkurko/shiny-application-and-reproducible-pitch
+All source code Course Project locates on the GitHub repo: https://github.com/adityasinhak/datasciencecoursera/edit/master/Developing_Data_Products/Course-Project-Shiny-Application-and-Reproducible-Pitch/ShinyApp.Rpres
